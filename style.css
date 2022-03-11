@@ -1,0 +1,11 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+/* Variables */
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-gray-light: hsl(212, 45%, 89%);
+  --clr-blue-gray: hsl(220, 15%, 55%);
+  --clr-dark-blue: hsl(218, 44%, 22%);
+  --ff-primary: "Roboto", sans-serif;
+}
